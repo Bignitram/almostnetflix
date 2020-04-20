@@ -1,0 +1,27 @@
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/images.css");
+@import url("components/form.css");
+@import url("components/containers.css");
+@import url("components/animation.css");
+@import url("components/faq-dropdown.css");
+@import url("components/responsive.css");
+@import url("components/ul.css");
+@import url("components/footer.css");
+
+
+
+body {
+  min-width: 320px;
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Netflix Sans', 'Helvetica  Neue', Helvetica, Arial, sans-serif;
+  background-color: #f3f3f3;
+  color: #333333;
+  font-size: 16px;
+  direction: ltr;
+  -webkit-font-smoothing: antialiased;
+  display: block;
+  line-height: 1.5;
+}
+

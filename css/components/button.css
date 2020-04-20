@@ -1,0 +1,104 @@
+.btn-danger {
+  background-color: #e50914;
+  line-height: normal;
+  padding: 7px 17px;
+  font-weight: 400;
+  font-size: 1rem;
+  float: right;
+  border-radius: 3px;
+  border: 0px;
+}
+
+.btn-danger:hover {
+  text-decoration: none;
+  background-color: #e50914;
+}
+
+#trybutton{
+  margin-right: 0px;
+  padding: 10px 10px;
+  font-size: 26px;
+  display: inline-block;
+  width: 200px;
+  background-color: #e50914;
+  border: 1px solid #e50914;
+  color: #fff;
+  width: 196.95px;
+  height: 60px;
+  background-image: linear-gradient (to bottom, #e50914, #db0510);
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.45);
+}
+
+
+
+
+#trybutton:hover {
+  text-decoration:none;
+  background-color: #db0510;
+}
+
+
+.dropdown.langue {
+  margin-top: 20px;
+  display: block;
+  font-size: 1em;
+  color: #757575;
+  background-color: black;
+}
+
+.dropdown-toggle.langue {
+  background-color: black;
+  height:53px;
+  width: 140px;
+  padding: 12px 26px 12px 26px;
+  color: #757575;
+}
+
+.langue.btn-secondary:hover {
+  text-decoration: none;
+  background-color: black;
+  color:#757575;
+  border-color: blue;
+}
+.dropdown-menu.langue {
+  background-color: #757575 ;
+}
+.langue.dropdown-menu.show {
+  width: 110px;
+}
+
+.langue.btn:not(:disabled):not(.disabled) {
+  cursor: auto;
+  background-color: black;
+  color: #757575;
+}
+
+.langue.show>.btn-secondary.dropdown-toggle:focus {
+  box-shadow: none;
+  box-color: blue;
+}
+
+.langue.btn-secondary:focus {
+  box-shadow: none;
+  box-color: blue;
+}
+
+.langue.dropdown-toggle::after {
+ content:"";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

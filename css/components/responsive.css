@@ -1,0 +1,37 @@
+@media (max-width:800px) {
+   #content-low h3 {
+      text-align: left;
+      font-size: 16px;
+}
+}
+
+@media (max-width:745px) {
+   #content-low h3 {
+      text-align: left;
+      font-size: 13px;
+}
+}
+
+@media (max-width:751px) {
+   #banner-low {
+    padding-bottom: 8px;
+}
+}
+
+@media (max-width:679px) {
+   #banner-low {
+    padding-bottom: 0px;
+  }
+  #content-low {
+    padding-bottom:33px;
+  }
+}
+
+@media (max-width:679px) {
+   #banner-low {
+    padding-bottom: 0px;
+  }
+  #content-low {
+    padding-bottom:0px;
+  }
+}

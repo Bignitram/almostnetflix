@@ -1,0 +1,77 @@
+#animation-first {
+  padding: 0px;
+  height: 216.88px;
+  width: 387.03px;
+  margin: 0px;
+
+}
+
+.our-story-card-video {
+  padding: 0px;
+  height: 216.88px;
+  width: 387.03px;
+  max-width: 73%;
+  max-height: 54%;
+  position: absolute;
+  top: 21.5%;
+  left: 59%;
+}
+
+#animation-2 {
+  padding: 8px 12px;
+  position: absolute;
+  left: 23.5%;
+  bottom: 17%;
+  transform: translateX(-50%);
+  margin: 0 auto;
+  background: black;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  width: 330.97px;
+  height: 96px;
+  min-width: 15em;
+  border: 2px solid rgba(255, 255, 255, 0.25);
+  box-shadow: 0 0 2em 0 #000000;
+  border-radius: 0.75em;
+  z-index: 2;
+}
+
+#animation-2 img {
+  height: 72px;
+  width: 51.42px;
+  margin-right: 16px;
+}
+
+
+#animation-third {
+  height: 197.66px;
+  width: 349.92px;
+  display: block;
+}
+
+#animation-third video {
+  height: 197.66px;
+  width: 349.92px;
+  display: inline-block;
+  vertical-align: baseline;
+  position: absolute;
+  top: 10%;
+  left: 16%;
+  max-width: 73%;
+  max-height: 54%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
